@@ -11,6 +11,8 @@ Dizindeki SQL klasörünün içindeki .sql dosyasını veritabanınıza yükleyi
 
 İlk projeyi aldığımızda ne yapabiliriz diye düşünüp hem güzel bir proje olacak olması ve hem kendimizi geliştirmek için güzel bir deneyim olması açısından “Online Kurs Kayıt Platformu” projesini seçtik. Ve günün sonuç olarak hem yetkin deneyimler kazandık, hem de güzel bir proje ortaya koymuş olduk.
 
+Projeyi ilk başta internette bulduğum hazır bir proje üstünde geliştirmeler yaparak yapmayı planlamıştım. Daha sonra içime sinmeyince Bootstrap 4 Yönetici Paneli Şablonu üzerinde bir çok kaynaktan da destek alarak bu sistemi kurdum.
+
 ## Amacımız
 
 Kurs kayıtlarını interaktif olarak sistem üzerinden yapıp herhangi manuel bir işleme yer verden otomatikleştirmek. 
